@@ -1,0 +1,6 @@
+go to gym
+print the pictures
+make dinner
+go to work
+watch a movie
+buy groceries
